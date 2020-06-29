@@ -1,4 +1,4 @@
 site url:
-https://wibrahem85.github.io/bizpage-modified/index
+https://wibrahem85.github.io/pizpage/index.html
 files url:
-https://github.com/wibrahem85/bizpage-modified
+https://github.com/wibrahem85/pizpage
